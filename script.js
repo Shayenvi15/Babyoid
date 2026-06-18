@@ -1,4 +1,4 @@
-```javascript id="x95s1f"
+
 // Smooth Fade-In Animation
 
 const observer = new IntersectionObserver((entries)=>{
@@ -72,4 +72,3 @@ document.querySelectorAll(".card").forEach(card=>{
     });
 
 });
-```
