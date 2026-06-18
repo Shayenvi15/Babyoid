@@ -1,11 +1,16 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this work, please cite it as below."
 authors:
 - family-names: "SRIVASTAVV"
   given-names: "SHAMBHAVI"
   orcid: "https://orcid.org/0009-0008-8381-5796 "
-title: "Babyoid"
+title: "Babyoid- The Digital Organism Architecture (DOA)"
+keywords:
+  - Artificial Life
+  - Emergent Intelligence
+  - Evolutionary Computation
 version: 1.0.0
 doi: 10.5281/zenodo.20745258
 date-released: 2026-06-18
 url: "https://github.com/Shayenvi15/Babyoid"
+license: "MIT"
