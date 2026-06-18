@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shayenvi15.github.io/Babyoid/sitemap.xml
